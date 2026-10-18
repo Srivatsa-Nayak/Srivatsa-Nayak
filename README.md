@@ -55,7 +55,7 @@ and test-driven development.
 **Observability &amp; Quality**
 
 <p>
-  <img alt="Observability & Quality: Prometheus, Grafana, SonarQube, Splunk" src="https://skills.syvixor.com/api/icons?i=prometheus,grafana,sonarqube,splunk&perline=8" /><img alt="Dynatrace" title="Dynatrace" src="https://raw.githubusercontent.com/Srivatsa-Nayak/Srivatsa-Nayak/main/assets/dynatrace.svg" />
+  <img alt="Observability & Quality: Prometheus, Grafana, SonarQube, Splunk" src="https://skills.syvixor.com/api/icons?i=prometheus,grafana,sonarqube,splunk&perline=8" /><img alt="Dynatrace" title="Dynatrace" src="assets/dynatrace.svg" />
 </p>
 
 **Databases**
