@@ -82,11 +82,13 @@ and test-driven development.
       <p><a href="https://db-viewer-ui-srivatsa.azurewebsites.net">Live app</a> · <a href="https://db-viewer-api-srivatsa.azurewebsites.net/swagger-ui.html">API docs</a></p>
     </td>
     <td width="50%" valign="top">
-      <h4>📝 <a href="https://github.com/Srivatsa-Nayak/springboot-restful-webservices">Spring Boot Blog REST API</a></h4>
-      <p>A secure REST backend for a blog with posts, comments and categories. Uses JWT auth with role-based access, pagination, <code>/api/v1</code> versioning and Swagger docs, and runs in Docker with MySQL.</p>
+      <h4>📝 <a href="https://github.com/Srivatsa-Nayak/blog-application">Blog Application</a></h4>
+      <p>A full-stack blog with a Next.js frontend and a secure Spring Boot REST API. Anyone can read posts, signed-in users can comment, and admins can write posts and manage categories. Uses JWT auth with role-based access, pagination and sorting, <code>/api/v1</code> versioning and Swagger docs. Runs on H2 with no setup, or on MySQL with Docker Compose.</p>
       <p>
         <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
         <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
+        <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
       </p>
     </td>
   </tr>
